@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @az1SHh
+- 👋 Hi, I’m aziSH
 - 👀 I’m interested in coding and computer hardware stuff (also in stupid ass indie games)
 - 🌱 I’m currently learning c++ and python, but I'm not really into coding yet
 - 💞️ I’m looking to collaborate on nothing, at this time i don't have intansions on collaborations becouse I'm not good at coding yet lol
